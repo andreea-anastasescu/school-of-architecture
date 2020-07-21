@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" modified="2020-07-21T13:57:31.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="FA0cu1IJcJlWrDLoECcV" version="13.4.9" type="github">
+  <diagram id="mx5xO8MXj_wtuOzBioYk" name="Page-1">
+    <mxGraphModel dx="3327" dy="2333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bMi5j8niDINSL1hWA75Q-1" value="&lt;b&gt;&#39;Exam planning&#39; employee&lt;/b&gt;&lt;div&gt;[Person]&lt;/div&gt;&lt;br&gt;&lt;div&gt;An employee working&amp;nbsp;&lt;/div&gt;&lt;div&gt;at the &#39;Exam planning&#39;&amp;nbsp;&lt;/div&gt;&lt;div&gt;department&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fillColor=#DAE8FC;strokeColor=#6C8EBF;shape=mxgraph.c4.person;align=center;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-540" y="-1090" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bMi5j8niDINSL1hWA75Q-3" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;plans exams&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;occasionally arranges professional trainers&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;reserves exam slots for students&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#A8A8A8;strokeWidth=2;fontColor=#000000;jumpStyle=none;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bMi5j8niDINSL1hWA75Q-1" target="KyEjvWDegDpbveLdocbA-9" edge="1">
+          <mxGeometry x="-0.4854" y="4" width="200" relative="1" as="geometry">
+            <mxPoint x="-440" y="-951" as="sourcePoint" />
+            <mxPoint x="-400.97875" y="-722.52" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KyEjvWDegDpbveLdocbA-1" value="&lt;b&gt;System Context diagram for the&amp;nbsp; &#39;Digital Exam planning&#39; System, &lt;font style=&quot;font-size: 15px&quot;&gt;&#39;Learn-with-me&#39; company (LWM)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="-1140" width="690" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KyEjvWDegDpbveLdocbA-2" value="&lt;b&gt;Professional trainer&lt;/b&gt;&lt;br&gt;&lt;div&gt;[Person]&lt;/div&gt;&lt;br&gt;&lt;div&gt;An individual contractor&amp;nbsp;&lt;/div&gt;&lt;div&gt;of LWM, delivering trainings&amp;nbsp;&lt;/div&gt;&lt;div&gt;and&amp;nbsp;&lt;/div&gt;&lt;div&gt;marking/supervising exams&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fillColor=#DAE8FC;strokeColor=#6C8EBF;shape=mxgraph.c4.person;align=center;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-282.5" y="-1090" width="152.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="KyEjvWDegDpbveLdocbA-3" value="&lt;div&gt;&lt;b&gt;Trainee&lt;/b&gt;&lt;/div&gt;&lt;div&gt;[Person]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A client of LWM, attending&amp;nbsp;&lt;/div&gt;&lt;div&gt;trainnings and examinations&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fillColor=#DAE8FC;strokeColor=#6C8EBF;shape=mxgraph.c4.person;align=center;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="-1090" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="KyEjvWDegDpbveLdocbA-4" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;apply to mark/supervise&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;suitable exams&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;(self-service)&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#A8A8A8;strokeWidth=2;fontColor=#000000;jumpStyle=none;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KyEjvWDegDpbveLdocbA-2" target="KyEjvWDegDpbveLdocbA-9" edge="1">
+          <mxGeometry x="-0.1892" y="5" width="200" relative="1" as="geometry">
+            <mxPoint x="-280" y="-890" as="sourcePoint" />
+            <mxPoint x="-400.3612499999999" y="-722.1599999999999" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KyEjvWDegDpbveLdocbA-6" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;applies for&amp;nbsp; exam-slots&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;(self-service)&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#A8A8A8;strokeWidth=2;fontColor=#000000;jumpStyle=none;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KyEjvWDegDpbveLdocbA-3" target="KyEjvWDegDpbveLdocbA-9" edge="1">
+          <mxGeometry x="-0.0346" y="5" width="200" relative="1" as="geometry">
+            <mxPoint x="10" y="-920" as="sourcePoint" />
+            <mxPoint x="-200" y="-724" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KyEjvWDegDpbveLdocbA-9" value="&lt;b&gt;d&lt;/b&gt;igital e&lt;b&gt;X&lt;/b&gt;a&lt;b&gt;M&lt;/b&gt;&amp;nbsp;Planning&lt;br&gt;&lt;div&gt;[Software System]&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;dXM allows complete e&lt;/font&gt;&lt;span&gt;xams planning (by employees),&lt;/span&gt;&lt;span&gt;&amp;nbsp;trainers&#39; application to supervise,&lt;/span&gt;&lt;span&gt;&amp;nbsp;trainees: apply for exam-slots&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=9;strokeColor=#6c8ebf;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+          <mxGeometry x="-290" y="-710" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-1" value="&lt;b&gt;Legacy &#39;LWM&#39; backoffice&lt;/b&gt;&lt;div&gt;[Software System]&lt;/div&gt;&lt;br&gt;&lt;div&gt;stores all information about trainings (structure, current organization) so also exam information&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=10;strokeColor=#6c8ebf;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxGeometry x="-750" y="-710" width="160" height="110.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-2" value="&lt;b&gt;e-mail System&lt;/b&gt;&lt;div&gt;[Software System]&lt;/div&gt;&lt;br&gt;&lt;div&gt;the internal Exchange system&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=10;strokeColor=#6c8ebf;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxGeometry x="170" y="-710" width="160" height="110.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-3" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;Gets information on plannable exams&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=0;html=1;entryX=1;entryY=0.25;jettySize=auto;orthogonalLoop=1;strokeColor=#A8A8A8;strokeWidth=2;fontColor=#000000;jumpStyle=none;dashed=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KyEjvWDegDpbveLdocbA-9" target="1jzdavhGLnp2UJtIogLx-1">
+          <mxGeometry width="200" relative="1" as="geometry">
+            <mxPoint x="-420" y="-520" as="sourcePoint" />
+            <mxPoint x="-220" y="-520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-4" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;Sends update on individual examination&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;(concrete plan, missed, attended etc))&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=0;html=1;entryX=1;entryY=0.25;jettySize=auto;orthogonalLoop=1;strokeColor=#A8A8A8;strokeWidth=2;fontColor=#000000;jumpStyle=none;dashed=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="200" relative="1" as="geometry">
+            <mxPoint x="-290" y="-640" as="sourcePoint" />
+            <mxPoint x="-590" y="-640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-5" value="&lt;b&gt;Trainers Registry&lt;/b&gt;&lt;br&gt;&lt;div&gt;[Software System]&lt;/div&gt;&lt;br&gt;&lt;div&gt;stores all relevant information about trainers (as competencies, contact)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=10;strokeColor=#6c8ebf;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxGeometry x="-570" y="-490" width="160" height="110.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-6" value="&lt;b&gt;Trainees Registry&lt;/b&gt;&lt;br&gt;&lt;div&gt;[Software System]&lt;/div&gt;&lt;br&gt;&lt;div&gt;stores all relevant information about trainers (as competencies, contact)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=10;strokeColor=#6c8ebf;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxGeometry x="-286.25" y="-490" width="160" height="110.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-8" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;Gets information on trainers&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;strokeColor=#A8A8A8;strokeWidth=2;fontColor=#000000;jumpStyle=none;dashed=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KyEjvWDegDpbveLdocbA-9" target="1jzdavhGLnp2UJtIogLx-5">
+          <mxGeometry width="200" relative="1" as="geometry">
+            <mxPoint x="-380" y="-550" as="sourcePoint" />
+            <mxPoint x="-180" y="-550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-9" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;Gets information on trainers&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;strokeColor=#A8A8A8;strokeWidth=2;fontColor=#000000;jumpStyle=none;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KyEjvWDegDpbveLdocbA-9" target="1jzdavhGLnp2UJtIogLx-6">
+          <mxGeometry x="0.4546" width="200" relative="1" as="geometry">
+            <mxPoint x="-237.5" y="-590" as="sourcePoint" />
+            <mxPoint x="-480" y="-480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-10" value="&lt;b&gt;Trainees Registry&lt;/b&gt;&lt;br&gt;&lt;div&gt;[Software System]&lt;/div&gt;&lt;br&gt;&lt;div&gt;stores all relevant information about trainers (as competencies, contact)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=10;strokeColor=#6c8ebf;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-490" width="160" height="110.00000000000001" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
