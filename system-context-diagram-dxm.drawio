@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T16:05:26.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="JKl_MHU8ZP0NrZrQIQ0C" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-22T09:16:12.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="p2hFB62EBvH7R0KbLHr5" version="13.4.9" type="github">
   <diagram id="mx5xO8MXj_wtuOzBioYk" name="Page-1">
-    <mxGraphModel dx="1863" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2248" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,8 +14,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KyEjvWDegDpbveLdocbA-1" value="&lt;b&gt;System Context diagram for the&amp;nbsp; &#39;Digital Exam planning&#39; System, &lt;font style=&quot;font-size: 15px&quot;&gt;&#39;Learn-with-me&#39; company (LWM)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="-610" y="-1140" width="690" height="20" as="geometry" />
+        <mxCell id="KyEjvWDegDpbveLdocbA-1" value="&lt;b style=&quot;font-size: 24px&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 24px&quot;&gt;System Context diagram for the&amp;nbsp; &#39;Digital Exam planning&#39; System, &lt;font style=&quot;font-size: 24px&quot;&gt;&#39;Learn-with-me&#39; company (LWM)&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="-790" y="-1140" width="1130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KyEjvWDegDpbveLdocbA-2" value="&lt;b&gt;Professional trainer&lt;/b&gt;&lt;br&gt;&lt;div&gt;[Person]&lt;/div&gt;&lt;br&gt;&lt;div&gt;An individual contractor&amp;nbsp;&lt;/div&gt;&lt;div&gt;of LWM, delivering trainings&amp;nbsp;&lt;/div&gt;&lt;div&gt;and&amp;nbsp;&lt;/div&gt;&lt;div&gt;marking/supervising exams&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fillColor=#DAE8FC;strokeColor=#6C8EBF;shape=mxgraph.c4.person;align=center;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-282.5" y="-960" width="152.5" height="170" as="geometry" />
@@ -116,11 +116,54 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1jzdavhGLnp2UJtIogLx-15" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;Description&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[technology]&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#A8A8A8;strokeWidth=2;fontColor=#000000;jumpStyle=none;dashed=1;" edge="1" parent="1">
+        <mxCell id="1jzdavhGLnp2UJtIogLx-15" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;sends copies of&amp;nbsp; location reminders&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#A8A8A8;strokeWidth=2;fontColor=#000000;jumpStyle=none;dashed=1;exitX=0.875;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1jzdavhGLnp2UJtIogLx-2" target="bMi5j8niDINSL1hWA75Q-1">
           <mxGeometry width="200" relative="1" as="geometry">
-            <mxPoint x="310" y="-580" as="sourcePoint" />
-            <mxPoint x="310" y="-1000" as="targetPoint" />
+            <mxPoint x="310" y="-590" as="sourcePoint" />
+            <mxPoint x="-460" y="-1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="-1060" />
+              <mxPoint x="-460" y="-1060" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-16" value="&lt;div&gt;&lt;b&gt;Location admins&lt;/b&gt;&lt;/div&gt;&lt;div&gt;[Person]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;outside of the organization&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fillColor=#DAE8FC;strokeColor=#6C8EBF;shape=mxgraph.c4.person;align=center;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-626" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-17" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;upcoming, confirmed&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;&amp;nbsp;location reservations&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#A8A8A8;strokeWidth=2;fontColor=#000000;jumpStyle=none;dashed=1;entryX=0;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1jzdavhGLnp2UJtIogLx-16">
+          <mxGeometry width="200" relative="1" as="geometry">
+            <mxPoint x="330" y="-530" as="sourcePoint" />
+            <mxPoint x="519" y="-260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="-530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-18" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Verdana;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-800" y="-200" as="sourcePoint" />
+            <mxPoint x="-800" y="-1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-20" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Verdana;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-800" y="-1080" as="sourcePoint" />
+            <mxPoint x="400" y="-1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-22" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Verdana;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-800" y="-200" as="sourcePoint" />
+            <mxPoint x="400" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-23" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Verdana;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-200" as="sourcePoint" />
+            <mxPoint x="400" y="-1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jzdavhGLnp2UJtIogLx-24" value="LWM&lt;br&gt;(inside organization boundaries)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="-1050" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
